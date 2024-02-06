@@ -1,2 +1,2 @@
 # python_matrix_code
-python code that computes simple matrix functions without numpy or scipy
+this class creates Matricies from vectors and performs simple matrix operations and comparisons
